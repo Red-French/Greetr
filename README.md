@@ -31,7 +31,7 @@ Example 2
     
     <div id="greeting">Greetings, Joe Schmo!</div>
 
-Example 2
+Example 3
 
     $("#login").click(function login() {
         const firstname = $("#firstname").val();
